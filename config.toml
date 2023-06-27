@@ -1,0 +1,34 @@
+languageCode = "zh-cn"
+title = "追星逐月2017研究论坛"
+baseURL = "https://starchaser2017.space/"
+theme = "hugo-theme-massively"
+googleanalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+
+
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+  # set to change date format
+  # dateFormat = "2.1.2006"
+  # backgroundPath = "images/bg.jpg"
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     folderName = "post"
+#     pageSize = "6"
+#     featuredPost = "true"
+#     paginationPages = 2
+#     showFirstLast = false
+ 
+[languages]
+[languages.zh-cn]
+  languageName = "中文"
+[languages.en]
+  languageName = "English"
+  title = "Starchaser2017 Forum"
+#[languages.fr]
+#  languageName = "Français"
+#  title = "Massively - Version Française"
